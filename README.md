@@ -16,7 +16,7 @@ If you wish to develop and host this codebase in a closed source manner you may 
 
 See [here](https://www.gnu.org/licenses/why-affero-gpl.html) for more information.
 
-All assets including icons and sound created before `1610665379 +0000` are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated. All assets including icons and sund created after `1610665379 +0000` are licensed to the Distant Worlds Project by their respective owners and may not be used without their express permission.
+All assets including icons and sound created before `1610665379 +0000` are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated. Unless available under a public license, all assets including icons and sound created after `1610665379 +0000` are licensed to the Distant Worlds Project by their respective owners and may not be used without their express permission.
 
 ---
 
